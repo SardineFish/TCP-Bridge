@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCP Bridge Client", "TCP Bridge\TCP Bridge Client.csproj", "{3FC6904A-C926-4EA2-AF96-7E9166A61420}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCP Bridge Server", "TCP Bridge Server\TCP Bridge Server.csproj", "{CA7729D4-9611-4B9D-BA84-6406A58D2801}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FC6904A-C926-4EA2-AF96-7E9166A61420}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FC6904A-C926-4EA2-AF96-7E9166A61420}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FC6904A-C926-4EA2-AF96-7E9166A61420}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FC6904A-C926-4EA2-AF96-7E9166A61420}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA7729D4-9611-4B9D-BA84-6406A58D2801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA7729D4-9611-4B9D-BA84-6406A58D2801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA7729D4-9611-4B9D-BA84-6406A58D2801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA7729D4-9611-4B9D-BA84-6406A58D2801}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
